@@ -16,6 +16,8 @@ This project provides a simple GTK (GIMP Toolkit) "Hello World" program implemen
 1. Clone the repository.
 2. Open in Visual Studio Code.
 3. Explore, modify, and build GTK applications.
+4. Build and active with VS Code extension or "gcc -o main main.cpp `pkg-config --cflags --libs gtk+-3.0`
+"
 
 # Getting Started
 
